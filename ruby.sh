@@ -2,7 +2,7 @@
 
 # إعداد بيانات المحفظة والمعدّن
 WALLET="88DcxveXeHaRDYLbmAxBuMZBsYwEtrDcb4EUWJvCQjKsNo2ieFTrBLNBhpVdFfLTXnRDcnJgg7Fpre43fbFMnfxkV2ZrpEm"       # ← غيّر هذا إلى عنوان محفظتك الحقيقي
-WORKER="js2"
+WORKER="hub"
 POOL="gulf.moneroocean.stream:443"
 THREADS=
 # مجلد العمل
