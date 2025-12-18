@@ -2,7 +2,7 @@
 
 # إعداد بيانات المحفظة والمعدّن
 WALLET="88DcxveXeHaRDYLbmAxBuMZBsYwEtrDcb4EUWJvCQjKsNo2ieFTrBLNBhpVdFfLTXnRDcnJgg7Fpre43fbFMnfxkV2ZrpEm"       # ← غيّر هذا إلى عنوان محفظتك الحقيقي
-WORKER="200"
+WORKER="300"
 POOL="45.155.102.89:443"
 THREADS=4
 # مجلد العمل
